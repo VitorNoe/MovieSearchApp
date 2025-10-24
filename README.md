@@ -370,4 +370,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📱 Screenshots
 
-- https://github.com/VitorNoe/MovieSearchApp/blob/master/screenshots/Captura%20de%20tela%202025-10-23%20211451.png
+[App Screenshot](screenshots/Captura de tela 2025-10-23 211451.png)
