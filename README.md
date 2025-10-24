@@ -362,16 +362,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
 ## 🙏 Acknowledgments
 
 - [OMDb API](https://www.omdbapi.com/) for providing the movie database
 - [Material Design](https://material.io/) for design guidelines
 - Android Developer Community for excellent documentation
 
-## 📱 video
+## 📱 Screenshots
+
+
