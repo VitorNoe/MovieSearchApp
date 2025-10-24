@@ -368,6 +368,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Material Design](https://material.io/) for design guidelines
 - Android Developer Community for excellent documentation
 
-## 📱 Screenshots
+## 📱 video
 
-[App Screenshot](screenshots/Captura de tela 2025-10-23 211451.png)
+https://github.com/VitorNoe/MovieSearchApp/blob/master/1023.mp4
