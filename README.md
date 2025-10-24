@@ -1,4 +1,4 @@
-# 🎬 MovieSearchApp - Complete Android Movie Search Application
+# 🎬 MovieSearchApp - Android Movie Search Application
 
 A modern Android application built with Kotlin and Jetpack Compose that allows users to search for movies using the OMDb API. This app demonstrates best practices in Android development including MVVM architecture, Retrofit for API calls, and Material Design 3.
 
